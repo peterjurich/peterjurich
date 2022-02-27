@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peterjurich!
-- 👀 I’m interested in technical writing and making information more accessible to others.
+- 👀 I’m interested in storytelling, technical writing, and making information more accessible to others.
 - 🌱 I’m currently learning DITA and documentation for software and API through Udemy and Technical Writers HQ.
 - 📝 My professional goal is to eventually find a home as a technical writer with a software company. 
 - 💞️ I’m looking to collaborate on software documentation projects.
