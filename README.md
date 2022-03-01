@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peterjurich!
+- 👋 Hi, I’m @peterjurich! I have a master's degree in science communication and am interested in all forms of knowledge sharing!
 - 👀 I’m interested in storytelling, technical writing, and making information more accessible to others.
 - 🌱 I’m currently learning DITA and documentation for software and API through Udemy and Technical Writers HQ.
 - 📝 My professional goal is to eventually find a home as a technical writer with a software company. 
