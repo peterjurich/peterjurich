@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peterjurich! I have a master's degree in science communication and am interested in all forms of knowledge sharing!
+- 👋 Hi, I’m @peterjurich! I have a master's degree in science communication and am interested in all forms of knowledge sharing! I believe that everyone should be given equal access to the same knowledge - regardless of disability or educational background.
 - 👀 I’m interested in storytelling, technical writing, and making information more accessible to others.
 - 🌱 I’m currently learning DITA, Agile software development, and API writing.
 - :mortar_board: I've recently completed a Udemy course on technical writing for software through Udemy.
